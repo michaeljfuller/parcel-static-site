@@ -1,0 +1,2 @@
+Build using [these docs](https://parceljs.org/getting-started/webapp/).
+The `parcel` command runs a webserver by default, so we want to use `parcel build` as the command, with `dist` as the default publish directory.
